@@ -4,8 +4,12 @@ public class Operators{
 		 
 		 int num1,num2;
 		 
-		 num1 = 13;
+		 num1 = 19;
 		 num2 = 5;
+		 
+		 num1 += num2; // or num1 = num1 + num2
+		 num1 *= num2;
+		 num1 -= num2;
 		 
 		 //Arithmetic Operators(+,*,-,/,%)
 		 int sum = num1 + num2;
